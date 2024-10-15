@@ -1,11 +1,16 @@
 {
-  "name": "bui",
+  "name": "@rafso/bui",
   "version": "1.0.0",
   "description": "A babylonjs GUI tool",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "rafso",
+  "license": "ISC",
+  "keywords": [
+    "babylonjsGuiTool",
+    "gui",
+    "babylonVrGui"
+  ]
 }
